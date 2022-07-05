@@ -1,0 +1,614 @@
+
+<!-- google_ad_section_start(weight=ignore) -->
+<head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app211.us.archive.org';v.server_ms=433;archive_analytics.send_pageview({});});</script>
+<script type="text/javascript" src="/_static/js/bundle-playback.js?v=KTqwAcYd" charset="utf-8"></script>
+<script type="text/javascript" src="/_static/js/wombat.js?v=UHAOicsW" charset="utf-8"></script>
+<script type="text/javascript">
+  __wm.init("https://web.archive.org/web");
+  __wm.wombat("http://atom.smasher.org:80/error/","20070202072547","https://web.archive.org/","web","/_static/",
+	      "1170401147");
+</script>
+<link rel="stylesheet" type="text/css" href="/_static/css/banner-styles.css?v=fantwOh2" />
+<link rel="stylesheet" type="text/css" href="/_static/css/iconochive.css?v=qtvMKcIJ" />
+<!-- End Wayback Rewrite JS Include -->
+
+<title>Atom Smasher's Error Message Generator</title>
+<meta name="description" content=" :: Generate your own funny Error Messages!">
+<style type="text/css">
+	body	{ font-family: Bitstream Vera Sans, Helvetica, Arial, sans-serif; }
+	small	{ font-size: 0.8em; }
+	.h1	{ color: #000000; font-size: 2.25em; font-weight: bold; }
+	.in1	{ font-family: Bitstream Vera Sans, Helvetica, Arial, sans-serif; font-size: 0.9em; text-align: center; }
+	.in2	{ font-family: Bitstream Vera Sans, Helvetica, Arial, sans-serif; font-size: 0.9em; }
+	.buttonborder { background-color: #0000FF; margin: 0px; padding: 2px; border-width: 2px; border-style: outset; border-color: #8080FF; border-spacing: 0; }
+</style>
+</head>
+<body bgcolor="#DEDEDE"><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+</style>
+<script>__wm.rw(0);</script>
+<div id="wm-ipp-base" lang="en" style="display:none;direction:ltr;">
+<div id="wm-ipp" style="position:fixed;left:0;top:0;right:0;">
+<div id="donato" style="position:relative;width:100%;">
+  <div id="donato-base">
+    <iframe id="donato-if" src="https://archive.org/includes/donate.php?as_page=1&amp;platform=wb&amp;referer=https%3A//web.archive.org/web/20070202072547/http%3A//atom.smasher.org/error/"
+	    scrolling="no" frameborder="0" style="width:100%; height:100%">
+    </iframe>
+  </div>
+</div><div id="wm-ipp-inside">
+  <div id="wm-toolbar" style="position:relative;display:flex;flex-flow:row nowrap;justify-content:space-between;">
+    <div id="wm-logo" style="/*width:110px;*/padding-top:12px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/_static/images/toolbar/wayback-toolbar-logo-200.png" srcset="/_static/images/toolbar/wayback-toolbar-logo-100.png, /_static/images/toolbar/wayback-toolbar-logo-150.png 1.5x, /_static/images/toolbar/wayback-toolbar-logo-200.png 2x" alt="Wayback Machine" style="width:100px" border="0" /></a>
+    </div>
+    <div class="c" style="display:flex;flex-flow:column nowrap;justify-content:space-between;flex:1;">
+      <form class="u" style="display:flex;flex-direction:row;flex-wrap:nowrap;" target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="http://atom.smasher.org/error/" onfocus="this.focus();this.select();" style="flex:1;"/><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20070202072547" /><input type="submit" value="Go" />
+      </form>
+      <div style="display:flex;flex-flow:row nowrap;align-items:flex-end;">
+		<div class="s" id="wm-nav-captures">
+	  	  <a class="t" href="/web/20070202072547*/http://atom.smasher.org/error/" title="See a list of every capture for this URL">2,539 captures</a>
+	  <div class="r" title="Timespan for captures of this URL">25 Jan 2005 - 17 Apr 2022</div>
+	  </div>
+	<div class="k" style="flex:1;">
+	  <a href="" id="wm-graph-anchor">
+	    <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+	      <canvas id="wm-sparkline-canvas" width="675" height="27" border="0"></canvas>
+	    </div>
+	  </a>
+	</div>
+      </div>
+    </div>
+    <div class="n">
+      <table>
+	<tbody>
+	  <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+	  <tr class="m">
+	    <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20061231124700/http://atom.smasher.org:80/error/" title="31 Dec 2006"><strong>Dec</strong></a></td>
+	    <td class="c" id="displayMonthEl" title="You are here: 07:25:47 Feb 02, 2007">FEB</td>
+	    <td class="f" nowrap="nowrap"><a href="https://web.archive.org/web/20070305225600/http://atom.smasher.org:80/error/" title="05 Mar 2007"><strong>Mar</strong></a></td>
+	  </tr>
+	  <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+	  <tr class="d">
+	    <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20070129073820/http://atom.smasher.org:80/error" title="07:38:20 Jan 29, 2007"><img src="/_static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+	    <td class="c" id="displayDayEl" style="width:34px;font-size:22px;white-space:nowrap;" title="You are here: 07:25:47 Feb 02, 2007">02</td>
+	    <td class="f" nowrap="nowrap"><a href="https://web.archive.org/web/20070204052243/http://atom.smasher.org:80/error/" title="05:22:43 Feb 04, 2007"><img src="/_static/images/toolbar/wm_tb_nxt_on.png" alt="Next capture" width="14" height="16" border="0" /></a></td>
+	  </tr>
+	  <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+	  <tr class="y">
+	    <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20060128031148/http://atom.smasher.org:80/error/" title="28 Jan 2006"><strong>2006</strong></a></td>
+	    <td class="c" id="displayYearEl" title="You are here: 07:25:47 Feb 02, 2007">2007</td>
+	    <td class="f" nowrap="nowrap"><a href="https://web.archive.org/web/20080202223152/http://atom.smasher.org:80/error/" title="02 Feb 2008"><strong>2008</strong></a></td>
+	  </tr>
+	</tbody>
+      </table>
+    </div>
+    <div class="r" style="display:flex;flex-flow:column nowrap;align-items:flex-end;justify-content:space-between;">
+      <div id="wm-btns" style="text-align:right;height:23px;">
+        	<span class="xxs">
+          <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a id="wm-save-snapshot-open" href="#"
+	     title="Share via My Web Archive" >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php" title="Sign In" id="wm-sign-in">
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+	</span>
+        	<a class="xxs" href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" class="xxs">
+        <a href="/web/20070202072547/http://web.archive.org/screenshot/http://atom.smasher.org/error/"
+           id="wm-screenshot"
+           title="screenshot">
+          <span class="wm-icon-screen-shot"></span>
+        </a>
+        <a href="#" id="wm-video" title="video">
+          <span class="iconochive-movies"></span>
+        </a>
+	<a id="wm-share-facebook" href="#" data-url="https://web.archive.org/web/20070202072547/http://atom.smasher.org:80/error/" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a id="wm-share-twitter" href="#" data-url="https://web.archive.org/web/20070202072547/http://atom.smasher.org:80/error/" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+      <div style="padding-right:2px;text-align:right;white-space:nowrap;">
+	<a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span class="xxs" style="font-size:80%;">About this capture</span></a>
+      </div>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+                    <div id="wm-capinfo-collected-by">
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/alexacrawls);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/alexacrawls" target="_new"><span class="wm-title">Alexa Crawls</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  Starting in 1996, <a href="http://www.alexa.com/">Alexa Internet</a> has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the <a href="http://web.archive.org/">Wayback Machine</a> after an embargo period.
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/38_crawl)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/38_crawl" target="_new"><span class="wm-title">38_crawl</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  this data is currently not publicly accessible.
+	</div>
+	      </div>
+    </div>
+    </div>
+    <div id="wm-capinfo-timestamps">
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/_static/images/loading.gif" alt="loading" /></div>
+    </div>
+    </div>
+  </div></div></div></div><div id="wm-ipp-print">The Wayback Machine - https://web.archive.org/web/20070202072547/http://atom.smasher.org:80/error/</div>
+<script type="text/javascript">//<![CDATA[
+__wm.bt(675,27,25,2,"web","http://atom.smasher.org/error/","20070202072547",1996,"/_static/",["/_static/css/banner-styles.css?v=fantwOh2","/_static/css/iconochive.css?v=qtvMKcIJ"], false);
+  __wm.rw(1);
+//]]></script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td align="right" valign="bottom"><a href="/web/20070202072547/http://atom.smasher.org/"><img src="https://web.archive.org/web/20070202072547im_/http://pic.smasher.org/img/atom_smasher_shadow1.png" width="145" height="92" border="0" alt="Atom Smasher" title="Home"></a></td>
+<td align="left" valign="bottom"><img src="https://web.archive.org/web/20070202072547im_/http://pic.smasher.org/img/atom_smasher_shadow3.png" width="113" height="92"></td>
+</tr><tr>
+<td align="right" valign="top"><a href="/web/20070202072547/http://atom.smasher.org/"><img src="https://web.archive.org/web/20070202072547im_/http://pic.smasher.org/img/atom_smasher_shadow2.png" width="145" height="49" border="0" alt="Atom Smasher" title="Home"></a></td>
+<td align="left" valign="bottom" class="h1" style="color: #000000; font-size: 32px; font-weight: bold;">Make your own Error Message</td></tr>
+<tr><td></td>
+<td>
+<a href="/web/20070202072547/http://atom.smasher.org/error/#list">More funny generators</a>
+</td></tr>
+</table>
+
+<br>
+
+<!-- google_ad_section_end -->
+
+<form name="err" action="/web/20070202072547/http://atom.smasher.org/error/" method="get">
+
+<table border="0"><tr><td valign="middle" align="left">
+
+<!-- table cell left of error image -->
+
+</td><td valign="middle" align="center">
+&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="/web/20070202072547im_/http://atom.smasher.org/error/random_image.png.php" alt="" title="">
+
+<script type="text/javascript"><!--
+google_ad_client = "pub-9236633860227305";
+google_alternate_color = "dedede";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text_image";
+google_ad_channel ="2756387031";
+google_color_border = "DEDEDE";
+google_color_bg = "DEDEDE";
+google_color_link = "0101FF";
+google_color_url = "000000";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript" src="https://web.archive.org/web/20070202072547js_/http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+</td></tr></table>
+
+
+<p>
+<h3><a href="/web/20070202072547/http://atom.smasher.org/error/gallery/">Visit the Gallery of Errors</a> or create your own error message here</h3>
+
+<!-- google_ad_section_start(weight=ignore) -->
+
+<table border="0"><tr><td>
+
+<script type="text/javascript"><!--
+google_ad_client = "pub-9236633860227305";
+google_alternate_color = "d0d0d0";
+google_ad_width = 120;
+google_ad_height = 600;
+google_ad_format = "120x600_as";
+google_ad_type = "text_image";
+google_ad_channel ="3329659474";
+google_color_border = "DEDEDE";
+google_color_bg = "DEDEDE";
+google_color_link = "0101FF";
+google_color_url = "000000";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript" src="https://web.archive.org/web/20070202072547js_/http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+</td><td valign="top">
+
+<!-- show thumbs -->
+Icon:<br>
+<style type="text/css"><!--
+	td.iconbox { background-Color: #DEDEDE; align: center; valign: top; }
+--></style>
+<script language="javascript" type="text/javascript">
+<!-- //
+    function toggleRadio(thisField,thisValue) {
+        radioSet = eval("document.err."+thisField)
+
+        for (i=0;i<radioSet.length;i++) {
+            if (radioSet[i].value == thisValue)
+                radioSet[i].checked = true
+        }
+    }
+// -->
+</script>
+
+<table border="1" cellspacing="4" cellpadding="10" bgcolor="#999999">
+<tr>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','Attention')" onmouseover="window.status='Icon: Attention';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/Attention.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="Attention"></a>
+ </td>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','Error')" onmouseover="window.status='Icon: Error';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/Error.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="Error"></a>
+ </td>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','Error2')" onmouseover="window.status='Icon: Error2';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/Error2.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="Error2"></a>
+ </td>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','Error3')" onmouseover="window.status='Icon: Error3';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/Error3.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="Error3"></a>
+ </td>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','Error4')" onmouseover="window.status='Icon: Error4';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/Error4.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="Error4"></a>
+ </td>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','aim_guy')" onmouseover="window.status='Icon: aim_guy';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/aim_guy.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="aim_guy"></a>
+ </td>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','aol_icon')" onmouseover="window.status='Icon: aol_icon';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/aol_icon.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="aol_icon"></a>
+ </td>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','bomb')" onmouseover="window.status='Icon: bomb';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/bomb.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="bomb"></a>
+ </td>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','bomb_dynamite')" onmouseover="window.status='Icon: bomb_dynamite';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/bomb_dynamite.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="bomb_dynamite"></a>
+ </td>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','bomb_grenade')" onmouseover="window.status='Icon: bomb_grenade';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/bomb_grenade.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="bomb_grenade"></a>
+ </td>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','bubble_i')" onmouseover="window.status='Icon: bubble_i';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/bubble_i.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="bubble_i"></a>
+ </td>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','bubble_q')" onmouseover="window.status='Icon: bubble_q';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/bubble_q.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="bubble_q"></a>
+ </td>
+</tr><tr>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','bulb')" onmouseover="window.status='Icon: bulb';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/bulb.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="bulb"></a>
+ </td>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','butterfly')" onmouseover="window.status='Icon: butterfly';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/butterfly.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="butterfly"></a>
+ </td>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','cake')" onmouseover="window.status='Icon: cake';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/cake.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="cake"></a>
+ </td>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','circularsaw')" onmouseover="window.status='Icon: circularsaw';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/circularsaw.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="circularsaw"></a>
+ </td>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','control_panel')" onmouseover="window.status='Icon: control_panel';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/control_panel.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="control_panel"></a>
+ </td>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','cow')" onmouseover="window.status='Icon: cow';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/cow.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="cow"></a>
+ </td>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','defrag')" onmouseover="window.status='Icon: defrag';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/defrag.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="defrag"></a>
+ </td>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','disk_blu')" onmouseover="window.status='Icon: disk_blu';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/disk_blu.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="disk_blu"></a>
+ </td>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','disk_blu_lbl')" onmouseover="window.status='Icon: disk_blu_lbl';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/disk_blu_lbl.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="disk_blu_lbl"></a>
+ </td>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','disk_org')" onmouseover="window.status='Icon: disk_org';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/disk_org.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="disk_org"></a>
+ </td>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','disk_red')" onmouseover="window.status='Icon: disk_red';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/disk_red.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="disk_red"></a>
+ </td>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','disk_red_lbl')" onmouseover="window.status='Icon: disk_red_lbl';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/disk_red_lbl.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="disk_red_lbl"></a>
+ </td>
+</tr><tr>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','disk_skull')" onmouseover="window.status='Icon: disk_skull';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/disk_skull.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="disk_skull"></a>
+ </td>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','disk_yel')" onmouseover="window.status='Icon: disk_yel';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/disk_yel.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="disk_yel"></a>
+ </td>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','dos')" onmouseover="window.status='Icon: dos';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/dos.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="dos"></a>
+ </td>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','e_orbit')" onmouseover="window.status='Icon: e_orbit';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/e_orbit.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="e_orbit"></a>
+ </td>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','file_cabinet')" onmouseover="window.status='Icon: file_cabinet';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/file_cabinet.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="file_cabinet"></a>
+ </td>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','find')" onmouseover="window.status='Icon: find';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/find.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="find"></a>
+ </td>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','fortunecookie')" onmouseover="window.status='Icon: fortunecookie';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/fortunecookie.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="fortunecookie"></a>
+ </td>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','garbage_empty')" onmouseover="window.status='Icon: garbage_empty';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/garbage_empty.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="garbage_empty"></a>
+ </td>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','garbage_full')" onmouseover="window.status='Icon: garbage_full';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/garbage_full.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="garbage_full"></a>
+ </td>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','gun')" onmouseover="window.status='Icon: gun';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/gun.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="gun"></a>
+ </td>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','hammer')" onmouseover="window.status='Icon: hammer';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/hammer.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="hammer"></a>
+ </td>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','heart')" onmouseover="window.status='Icon: heart';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/heart.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="heart"></a>
+ </td>
+</tr><tr>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','help')" onmouseover="window.status='Icon: help';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/help.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="help"></a>
+ </td>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','hub')" onmouseover="window.status='Icon: hub';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/hub.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="hub"></a>
+ </td>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','hwinfo')" onmouseover="window.status='Icon: hwinfo';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/hwinfo.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="hwinfo"></a>
+ </td>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','ic_a')" onmouseover="window.status='Icon: ic_a';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/ic_a.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="ic_a"></a>
+ </td>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','keys')" onmouseover="window.status='Icon: keys';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/keys.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="keys"></a>
+ </td>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','keys2')" onmouseover="window.status='Icon: keys2';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/keys2.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="keys2"></a>
+ </td>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','keys3')" onmouseover="window.status='Icon: keys3';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/keys3.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="keys3"></a>
+ </td>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','labtec')" onmouseover="window.status='Icon: labtec';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/labtec.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="labtec"></a>
+ </td>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','mac')" onmouseover="window.status='Icon: mac';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/mac.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="mac"></a>
+ </td>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','mail')" onmouseover="window.status='Icon: mail';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/mail.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="mail"></a>
+ </td>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','mail_deleted')" onmouseover="window.status='Icon: mail_deleted';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/mail_deleted.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="mail_deleted"></a>
+ </td>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','mailbox')" onmouseover="window.status='Icon: mailbox';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/mailbox.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="mailbox"></a>
+ </td>
+</tr><tr>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','mouth')" onmouseover="window.status='Icon: mouth';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/mouth.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="mouth"></a>
+ </td>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','mycomputer')" onmouseover="window.status='Icon: mycomputer';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/mycomputer.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="mycomputer"></a>
+ </td>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','mycomputer2')" onmouseover="window.status='Icon: mycomputer2';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/mycomputer2.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="mycomputer2"></a>
+ </td>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','mycomputer3')" onmouseover="window.status='Icon: mycomputer3';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/mycomputer3.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="mycomputer3"></a>
+ </td>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','newspaper')" onmouseover="window.status='Icon: newspaper';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/newspaper.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="newspaper"></a>
+ </td>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','peripheral')" onmouseover="window.status='Icon: peripheral';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/peripheral.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="peripheral"></a>
+ </td>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','plant_leaf')" onmouseover="window.status='Icon: plant_leaf';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/plant_leaf.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="plant_leaf"></a>
+ </td>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','radiation')" onmouseover="window.status='Icon: radiation';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/radiation.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="radiation"></a>
+ </td>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','ram')" onmouseover="window.status='Icon: ram';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/ram.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="ram"></a>
+ </td>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','recycle')" onmouseover="window.status='Icon: recycle';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/recycle.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="recycle"></a>
+ </td>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','recycle2')" onmouseover="window.status='Icon: recycle2';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/recycle2.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="recycle2"></a>
+ </td>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','scanner')" onmouseover="window.status='Icon: scanner';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/scanner.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="scanner"></a>
+ </td>
+</tr><tr>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','screw')" onmouseover="window.status='Icon: screw';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/screw.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="screw"></a>
+ </td>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','screw2')" onmouseover="window.status='Icon: screw2';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/screw2.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="screw2"></a>
+ </td>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','setup')" onmouseover="window.status='Icon: setup';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/setup.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="setup"></a>
+ </td>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','sknife')" onmouseover="window.status='Icon: sknife';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/sknife.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="sknife"></a>
+ </td>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','skull')" onmouseover="window.status='Icon: skull';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/skull.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="skull"></a>
+ </td>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','skull2')" onmouseover="window.status='Icon: skull2';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/skull2.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="skull2"></a>
+ </td>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','skull3')" onmouseover="window.status='Icon: skull3';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/skull3.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="skull3"></a>
+ </td>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','tux')" onmouseover="window.status='Icon: tux';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/tux.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="tux"></a>
+ </td>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','tux_config')" onmouseover="window.status='Icon: tux_config';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/tux_config.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="tux_config"></a>
+ </td>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','ups')" onmouseover="window.status='Icon: ups';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/ups.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="ups"></a>
+ </td>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','zipdisk')" onmouseover="window.status='Icon: zipdisk';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/zipdisk.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="zipdisk"></a>
+ </td>
+<td class="iconbox"><a href="javascript:toggleRadio('icon','zipdisks')" onmouseover="window.status='Icon: zipdisks';return true" onmouseout="window.status='';return true"><img src="https://web.archive.org/web/20070202072547im_/http://error-png.smasher.org/zipdisks.png" border="0" width="34" height="34"><br><input type="radio" name="icon" value="zipdisks"></a>
+ </td>
+</tr><tr>
+</tr>
+</table>
+<!-- /show thumbs -->
+
+</td></tr></table>
+
+<table cellpadding="0" border="0" width="100%"><tr><td align="left" valign="top">
+
+&nbsp;
+
+</td><td valign="top">
+
+<table cellpadding="3" border="0"><tr><td colspan="3">
+
+Style:
+<input type="radio" name="style" value="98">95/98
+<input type="radio" name="style" value="xp">XP
+
+</td></tr>
+<tr><td colspan="3">
+
+Title (Blue bar):
+
+<!-- google_ad_section_end -->
+
+<input type="text" name="title" value="" class="in2">
+
+</td></tr>
+<tr><td colspan="3">
+
+Text:<br>
+<textarea name="text" rows="4" cols="50"></textarea>
+
+</td></tr>
+<tr><td align="left">
+	Left Button<br>
+	<input type="text" size="15" name="b1" value="" class="in1">
+	<br>
+	<input type="checkbox" name="b1g" value="x">Gray
+</td><td align="left">
+	Center Button<br>
+	<input type="text" size="15" name="b2" value="" class="in1">
+	<br>
+	<input type="checkbox" name="b2g" value="x">Gray
+</td><td align="left">
+	Right Button<br>
+	<input type="text" size="15" name="b3" value="" class="in1">
+	<br>
+	<input type="checkbox" name="b3g" value="x">Gray
+</td></tr>
+
+<tr><td colspan="3" align="center">
+	<table cellpadding="3" border="0"><tr><td class="buttonborder">
+	<input type="submit" value=" -->> Generate an error message <<-- ">
+	</td></tr></table>
+</td></tr></table>
+
+</td><td align="left" valign="top">
+
+<br>
+&nbsp;&nbsp;&nbsp;
+
+<script type="text/javascript"><!--
+google_ad_client = "pub-9236633860227305";
+google_alternate_color = "dedede";
+google_ad_width = 200;
+google_ad_height = 90;
+google_ad_format = "200x90_0ads_al_s";
+google_ad_channel ="2008099827";
+google_color_border = "DEDEDE";
+google_color_bg = "DEDEDE";
+google_color_link = "0101FF";
+google_color_url = "000000";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript" src="https://web.archive.org/web/20070202072547js_/http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+</td></tr></table>
+
+</form>
+
+<!-- google_ad_section_start(weight=ignore) -->
+
+<p>
+    <b>Do not link directly to the image! No Hot-Linking!</b> Your link will not work!<br>
+    Feel free to copy this image and use it on your own web site, and please link back to here. 
+<p>
+<table cellpadding="5" bgcolor="#848484"><tr><td bgcolor="#DEDEDE">
+	<class style="background-color: fffb00;">More Image Generators:</class>
+<a name="list">&nbsp;</a>
+<ul>
+<li style="font-weight: bold; font-style: italic">--NEW--&gt; <a href="/web/20070202072547/http://atom.smasher.org/streetparty/">Street Party Generator!</a>
+<li style="font-weight: bold; font-style: italic">--IMPROVED--&gt; <a href="/web/20070202072547/http://atom.smasher.org/pack/">Pack Place Sign Generator!</a>
+<li><a href="/web/20070202072547/http://atom.smasher.org/highway/">Highway Sign Generator!</a>
+<li><a href="/web/20070202072547/http://atom.smasher.org/gas-station/">Gas Station Sign Generator!</a>
+<li><a href="/web/20070202072547/http://atom.smasher.org/construction/">Road Construction Sign Generator!</a>
+<li><a href="/web/20070202072547/http://atom.smasher.org/vegas/">Las Vegas Strip Generator!</a>
+<li><a href="/web/20070202072547/http://atom.smasher.org/graffiti/">Graffiti Generator!</a>
+<li><a href="/web/20070202072547/http://atom.smasher.org/bar-b-q/">Bar-B-Q Sign Generator!</a>
+<li><a href="/web/20070202072547/http://atom.smasher.org/chinese/">Chinese Restaurant Sign Generator!</a>
+<li><a href="/web/20070202072547/http://atom.smasher.org/office/">Office Building Sign Generator!</a>
+</ul><ul>
+<li><a href="/web/20070202072547/http://atom.smasher.org/random/">Go to a Random Sign Generator!</a>
+</ul>
+
+</td></tr></table>
+
+    <p><small><small>No signs were harmed during the production of this web page; IANAL; void where
+    prohibited; subject to change with or without notice; all information provided "as is" and any
+    express or implied warranties, including, but not limited to, the implied warranties of
+    merchantability and fitness are disclaimed; no other warranty expressed or implied; this is not
+    an offer to sell securities; use only in well-ventilated area; keep away from fire or flame;
+    not recommended for children; this supersedes all previous notices; no Microsoft(tm) products
+    were used during the making of this web page or any images contained herein; all trademarks
+    remain the property of their respective owners.</small></small></p>
+
+<!--Creative Commons License--><a rel="license" href="https://web.archive.org/web/20070202072547/http://creativecommons.org/licenses/by-nc-sa/2.5/"><img alt="Creative Commons License" border="0" src="https://web.archive.org/web/20070202072547im_/http://creativecommons.org/images/public/somerights20.png"/></a><br/>
+		All images generated on this page are &#169; Atom Smasher and licensed under a <a rel="license" href="https://web.archive.org/web/20070202072547/http://creativecommons.org/licenses/by-nc-sa/2.5/">Creative Commons Attribution-NonCommercial-ShareAlike 2.5 License</a>.
+		<!--/Creative Commons License--><!-- <rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+		<Work rdf:about="">
+			<license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/2.5/" />
+	<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+		</Work>
+		<License rdf:about="http://creativecommons.org/licenses/by-nc-sa/2.5/"><permits rdf:resource="http://web.resource.org/cc/Reproduction"/><permits rdf:resource="http://web.resource.org/cc/Distribution"/><requires rdf:resource="http://web.resource.org/cc/Notice"/><requires rdf:resource="http://web.resource.org/cc/Attribution"/><prohibits rdf:resource="http://web.resource.org/cc/CommercialUse"/><permits rdf:resource="http://web.resource.org/cc/DerivativeWorks"/><requires rdf:resource="http://web.resource.org/cc/ShareAlike"/></License></rdf:RDF> -->
+<br>
+Images may be made available under other licenses on request.
+
+<p>Be the first to find out when new generators are posted! Send a blank email to <a href="https://web.archive.org/web/20070202072547/mailto:sign-generator-subscribe@smasher.org">sign-generator-subscribe@smasher.org</a>. This list will <b>ONLY</b> be used for announcing new generators.
+
+<p>Do you have an idea for a message generator?
+Is there a sign or landmark that you pass every day, and you'd like to turn it into a message generator?
+<a href="/web/20070202072547/http://atom.smasher.org/">Tell me about it!</a>
+
+    <p>This is so cool! Can I hire you?<br>
+    Maybe. Let me know what type of work you have. You can find my <a href="/web/20070202072547/http://atom.smasher.org/">contact
+    information</a> here.<br>
+    <br>
+    <br>
+
+<script type="text/javascript"><!--
+google_ad_client = "pub-9236633860227305";
+google_ad_width = 180;
+google_ad_height = 60;
+google_ad_format = "180x60_as_rimg";
+google_cpa_choice = "CAAQoPi39gEaCLAd7Qvco_tZKMzD4IEB";
+google_ad_channel = "";
+//--></script>
+<script type="text/javascript" src="https://web.archive.org/web/20070202072547js_/http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+&nbsp;&nbsp;&nbsp;
+
+<script type="text/javascript"><!--
+google_ad_client = "pub-9236633860227305";
+google_ad_width = 180;
+google_ad_height = 60;
+google_ad_format = "180x60_as_rimg";
+google_cpa_choice = "CAAQ4fqy0gEaCPI0fZSM10VxKL3D93M";
+//--></script>
+<script type="text/javascript" src="https://web.archive.org/web/20070202072547js_/http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+&nbsp;&nbsp;&nbsp;
+
+<script type="text/javascript"><!--
+google_ad_client = "pub-9236633860227305";
+google_ad_width = 180;
+google_ad_height = 60;
+google_ad_format = "180x60_as_rimg";
+google_cpa_choice = "CAAQyaj8zwEaCIwcWMzeycafKMu293M";
+//--></script>
+<script type="text/javascript" src="https://web.archive.org/web/20070202072547js_/http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+&nbsp;&nbsp;&nbsp;
+
+<script type="text/javascript"><!--
+google_ad_client = "pub-9236633860227305";
+google_ad_width = 180;
+google_ad_height = 60;
+google_ad_format = "180x60_as_rimg";
+google_cpa_choice = "CAAQ6JL88AEaCClmYvSJtZTWKPTj6n4";
+//--></script>
+<script type="text/javascript" src="https://web.archive.org/web/20070202072547js_/http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+<p>
+<a href="https://web.archive.org/web/20070202072547/http://www.userfriendly.org/"><img src="/web/20070202072547im_/http://atom.smasher.org/error/UF_LOTD.gif" width="125" height="115" border="0"></a>
+
+</body>
+<!--
+     FILE ARCHIVED ON 07:25:47 Feb 02, 2007 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 02:45:39 Jul 05, 2022.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 359.988
+  exclusion.robots: 0.201
+  exclusion.robots.policy: 0.195
+  cdx.remote: 0.06
+  esindex: 0.008
+  LoadShardBlock: 186.651 (3)
+  PetaboxLoader3.resolve: 79.13 (2)
+  PetaboxLoader3.datanode: 157.533 (4)
+  CDXLines.iter: 18.272 (3)
+  load_resource: 60.773
+-->
